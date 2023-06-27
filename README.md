@@ -1,3 +1,8 @@
-Tampilan awal website DPPKB Palembang
-![foto1](https://github.com/rachelastrii/responsive-web/assets/124449282/8dd49f23-a944-4913-a326-03ce2a1f7184)
+Langkah - langkah :
+1. Masukkan semua folder ke xampp/htdocs
+2. Buka xampp lalu aktifkan service Apache dan MySQL
+3. buka browser lalu ketik localhost/(nama folder web anda)
+
+Berikut link demo program website DPPKB Palembang
+https://youtu.be/P3vhHKjPr1Q
 # responsive-web
